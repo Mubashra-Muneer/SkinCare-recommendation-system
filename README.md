@@ -541,10 +541,3 @@ SkinMeta AI is designed for educational and research purposes only and does not 
 
 ---
 
-# Author
-
-Mubashra Munir
-
----
-
-If you found this project useful, consider giving it a star.
